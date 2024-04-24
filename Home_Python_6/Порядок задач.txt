@@ -1,0 +1,4 @@
+2 Зададние "Dater"
+3 Задание "Chess_random"
+3.1 Задание "Battle_exodus"
+4 Задание "Friendly_positions"
